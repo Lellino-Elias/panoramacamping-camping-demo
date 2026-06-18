@@ -99,7 +99,7 @@ const panoramacamping: CampsiteConfig = {
       {
         title: "Wellness-Relaxraum",
         text: "Im Wellnessbereich kannst du auf gemütlichen Liegen zur Ruhe kommen und den Tag ausklingen lassen.",
-        image: { src: `${IMG}/wellness-relax.webp`, alt: "Relaxraum mit Liegen im Wellnessbereich" },
+        image: { src: `${IMG}/wellness-liege.webp`, alt: "Relaxraum mit Liegen im Wellnessbereich" },
       },
       {
         title: "Gemütliche Tiroler Stube",
@@ -150,7 +150,7 @@ const panoramacamping: CampsiteConfig = {
       {
         title: "Wandern & Gipfeltouren",
         text: "Im Sommer starten Wanderungen und Gipfeltouren mit weitem Blick direkt vor deinem Vorzelt.",
-        image: { src: `${IMG}/gipfelkreuz.webp`, alt: "Gipfelkreuz mit Panorama über die Kitzbüheler Alpen" },
+        image: { src: `${IMG}/gipfeltour-panorama.webp`, alt: "Gipfelkreuz mit Panorama über die Kitzbüheler Alpen" },
       },
       {
         title: "Winterzauber im Brixental",
